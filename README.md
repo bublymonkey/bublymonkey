@@ -2,7 +2,7 @@
 - 👀 I’m interested in Arch linux
 - 🌱 I’m currently learning C# Python Linux
 - 💞️ I’m looking to collaborate on Game development
-- 📫 How to reach me Discord bublymonkey#9092
+- 📫 How to reach me Discord bublymonkey
 
 <!---
 bublymonkey/bublymonkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
